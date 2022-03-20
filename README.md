@@ -1,6 +1,7 @@
 Oi, eu sou @Elizandrakrier
 - 🏃🏻‍♀️ Estou desbravando o mundo da programação.
 - 🧠 Estou aprendendo HTML, CSS e Banco de dados.
+- 
 
 
 <!---
