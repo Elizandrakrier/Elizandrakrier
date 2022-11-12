@@ -1,4 +1,4 @@
-Hi, I'm Elizandra Krier 👋
+Hi there 👋
 
 - I started my journey in frontend programming, now I'm migrating to Android mobile development. 🧮
 - Trainer Poke and well otaku 🥷.
