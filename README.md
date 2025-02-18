@@ -8,12 +8,6 @@ I am a developer with experience in the fintech sector, focused on creating effi
 	•	Backend: Java, Python
 	•	Database: SQL
 
-🔍 Interests and Project Types:
-	•	Development of mobile and backend applications
-	•	System integration and APIs
-	•	Databases and data manipulation with SQL
-	•	Process automation and scripting with Python
-
 I enjoy tackling challenges and continuously learning to build impactful solutions. 🚀
 
 Olá👋🇧🇷
@@ -25,12 +19,6 @@ Sou desenvolvedora com experiência no setor fintech, focada em criar soluções
 	•	Frontend: HTML, CSS, JavaScript
 	•	Backend: Java, Python
 	•	Banco de Dados: SQL
-
-🔍 Interesses e Tipos de Projetos:
-	•	Desenvolvimento de aplicações mobile e backend
-	•	Integração de sistemas e APIs
-	•	Banco de dados e manipulação de dados com SQL
-	•	Automação de processos e scripts utilizando Python
 
 Gosto de enfrentar desafios e aprender constantemente para construir soluções que fazem a diferença. 🚀
 
