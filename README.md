@@ -1,9 +1,38 @@
 Hi👋🌎
 
-Developer with fintech experience, hooked on using tech to make great user experiences. Currently studying Software Analysis and Development at FIAP, with solid skills in Android development with Kotlin and a growing love for frontend. Always exploring new ways to create cool, user-friendly solutions.🧮
+I am a developer with experience in the fintech sector, focused on creating efficient and scalable solutions. Currently, I am studying Software Analysis and Development at FIAP, always eager to enhance my skills and explore new technologies.
+
+🚀 Technologies and Tools:
+	•	Mobile: Kotlin for Android
+	•	Frontend: HTML, CSS, JavaScript
+	•	Backend: Java, Python
+	•	Database: SQL
+
+🔍 Interests and Project Types:
+	•	Development of mobile and backend applications
+	•	System integration and APIs
+	•	Databases and data manipulation with SQL
+	•	Process automation and scripting with Python
+
+I enjoy tackling challenges and continuously learning to build impactful solutions. 🚀
 
 Olá👋🇧🇷
-Desenvolvedora com experiência em fintech, apaixonada por transformar experiências com tecnologia. Estudante de Análise e Desenvolvimento de Software na FIAP, com forte conhecimento em Kotlin para Android e crescente entusiasmo por frontend. Sempre em busca de novas maneiras de melhorar a experiência do usuário com soluções criativas.
+
+Sou desenvolvedora com experiência no setor fintech, focada em criar soluções eficientes e escaláveis. Atualmente, estudo Análise e Desenvolvimento de Sistemas na FIAP e estou sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias.
+
+🚀 Tecnologias e Ferramentas:
+	•	Mobile: Kotlin para Android
+	•	Frontend: HTML, CSS, JavaScript
+	•	Backend: Java, Python
+	•	Banco de Dados: SQL
+
+🔍 Interesses e Tipos de Projetos:
+	•	Desenvolvimento de aplicações mobile e backend
+	•	Integração de sistemas e APIs
+	•	Banco de dados e manipulação de dados com SQL
+	•	Automação de processos e scripts utilizando Python
+
+Gosto de enfrentar desafios e aprender constantemente para construir soluções que fazem a diferença. 🚀
 
 
 
